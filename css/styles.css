@@ -1,0 +1,19 @@
+.fundo {
+  background-color: goldenrod;
+}
+.fundo a {
+  text-decoration: none;
+  font-size: 15pt;
+  color: black;
+  margin: 5px;
+}
+.fundo2 {
+  background-color: goldenrod;
+}
+h2 {
+  font-family: "arial";
+  font-size: 20pt;
+  margin: 20px;
+  border-bottom: 1px solid black;
+  text-align: center;
+} 
